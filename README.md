@@ -1,4 +1,4 @@
-## Hi there! 👋
+Sem dijak Elektrotehniške in računalniške šole Nova Gorica. Učim se programski jezik java. 👋
 
 <!--
 **gregakikelj/gregakikelj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
